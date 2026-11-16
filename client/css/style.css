@@ -1,0 +1,12 @@
+:root {
+    --primary: #2563EB;
+    --primary-dark: #1D4ED8;
+    --bg-main: #F5F7FB;
+    --card-bg: #FFFFFF;
+    --text-main: #172033;
+    --text-muted: #64748B;
+    --success: #16A34A;
+    --border-color: #E5EAF2;
+}
+.hidden-section { display: none !important; }
+body { font-family: 'Inter', sans-serif; background-color: var(--bg-main); color: var(--text-main); }
